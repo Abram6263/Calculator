@@ -64,6 +64,7 @@
             style="@style/Widget.AppCompat.Button"
             android:layout_width="63dp"
             android:layout_height="match_parent"
+            android:onClick="Clicker"
             android:text="+"
             android:textSize="24sp" />
 
@@ -72,6 +73,7 @@
             style="@style/Widget.AppCompat.Button"
             android:layout_width="63dp"
             android:layout_height="match_parent"
+            android:onClick="Clicker"
             android:text="-"
             android:textSize="24sp" />
 
@@ -80,6 +82,7 @@
             style="@style/Widget.AppCompat.Button"
             android:layout_width="63dp"
             android:layout_height="match_parent"
+            android:onClick="Clicker"
             android:text="X"
             android:textSize="24sp" />
 
@@ -88,6 +91,7 @@
             style="@style/Widget.AppCompat.Button"
             android:layout_width="63dp"
             android:layout_height="match_parent"
+            android:onClick="Clicker"
             android:text="/"
             android:textSize="24sp" />
 
